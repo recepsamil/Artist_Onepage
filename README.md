@@ -9,3 +9,5 @@ Kullanım Alanları
 📌Müzik veya video klip tanıtımları için etkileyici bir web sayfası.
 📌Sanatçıların biyografilerini, albümlerini ve kliplerini tanıtmak için ideal bir platform.
 Bu proje, yaratıcı içerikleri şık bir şekilde sergilemek isteyenler için modern ve kullanıcı dostu bir çözüm sunar.
+
+![resim1](https://github.com/recepsamil/Artist_Onepage/blob/main/img/screencapture-file-C-Users-ciftc-OneDrive-Masaustu-YazilimaOrg-SertifikaProjeleri-Sanatci-Tanitim-Onepage-index-html-2025-01-05-23_06_24.png?raw=true)
