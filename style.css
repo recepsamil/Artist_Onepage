@@ -1,0 +1,89 @@
+/* Genel Ayarlar */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* HEADER */
+.navbar {
+    background-color:rgb(46, 45, 45);
+    
+  }
+  .navbar h1{
+    color:#fff;
+  }
+  .navbar a{
+    color:#fff;
+  }
+
+ /* ABOUT */
+img{
+    margin-top: 130px;
+    
+    
+  }
+  .img img{
+    border-radius: 80px;
+    
+  }
+#ABOUT{
+  background-color: #f3eae8;
+    height:750px;
+    padding: 20px;
+}
+p{
+    font-size: 20px;
+}
+
+/* ALBUM */
+
+#ALBUM{
+    background-color:#00a8d4;
+    height: 800px;
+    padding: 20px;
+    color:#fff;
+}
+
+section {
+  padding: 40px 0;
+}
+
+/* VIDEOS */
+
+#VIDEOS {
+  padding: 20px;
+  background-color:rgb(60, 88, 97);
+  height: auto;
+}
+
+/* ACTIVITY */
+
+#ACTİVİTY {
+  background-color:#ffffff;
+  padding: 20px;
+  
+}
+
+/* CONTACT */
+
+#CONTACT{
+  background-color:#4f606e;
+  color:#fff;
+  height: 400px;
+  padding: 20px;
+}
+
+/* Footer */
+footer {
+    font-size: 18px;
+    color: #fff;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
